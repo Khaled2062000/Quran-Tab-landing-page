@@ -168,7 +168,6 @@ a {
 #faq .section__title {
   font-size: 2.4rem;
   text-align: center;
-  display: block;
   margin: 0 auto;
 }
 .section--one--column {
@@ -309,7 +308,7 @@ a {
 
 @media (max-width: 600px) {
   #faq .section__title {
-    font-size: 1.8rem;
+    font-size: 2.4rem;
   }
 }
 .footer {
